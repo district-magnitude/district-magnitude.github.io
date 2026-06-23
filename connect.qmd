@@ -4,10 +4,9 @@ title: "Connect"
 
 Get in touch and follow our work.
 
-## Contact
+## Mailing list
 
-_Add your contact email here._
+We host a mailing list, **district magnitude (DM)**, at [Groups.io](https://groups.io).
 
-## Follow us
-
-_Add links to your social media or mailing list here._
+- **To subscribe**, send an empty message to [district-magnitude+subscribe@groups.io](mailto:district-magnitude+subscribe@groups.io).
+- **To join the list as a member**, contact [district-magnitude+owner@groups.io](mailto:district-magnitude+owner@groups.io).
