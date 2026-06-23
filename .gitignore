@@ -12,3 +12,6 @@
 .nojekyll
 
 **/*.quarto_ipynb
+
+# Stray rendered HTML at the repo root (real output goes to _site/)
+/*.html
