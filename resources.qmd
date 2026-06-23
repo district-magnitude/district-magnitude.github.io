@@ -2,8 +2,8 @@
 title: "Resources"
 ---
 
-Resources, materials, and links.
-
 ## Materials
 
-_Resources will be listed here._
+- [APSA Section](https://apsanet.org/membership/organized-sections/section8/)
+
+- [Past awards](https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-8/)
