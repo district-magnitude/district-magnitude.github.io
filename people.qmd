@@ -1,0 +1,9 @@
+---
+title: "People"
+---
+
+Meet the people behind district-magnitude.
+
+## Team
+
+_Team members will be listed here._

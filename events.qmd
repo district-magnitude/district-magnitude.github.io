@@ -1,0 +1,13 @@
+---
+title: "Events"
+---
+
+Upcoming and past events.
+
+## Upcoming
+
+_No events scheduled yet. Check back soon._
+
+## Past events
+
+_Past events will be listed here._

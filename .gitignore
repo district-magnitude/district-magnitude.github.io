@@ -10,3 +10,5 @@
 *_files/
 *_cache/
 .nojekyll
+
+**/*.quarto_ipynb

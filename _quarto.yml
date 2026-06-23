@@ -7,7 +7,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: events.qmd
+        text: Events
+      - href: people.qmd
+        text: People
+      - href: resources.qmd
+        text: Resources
+      - href: connect.qmd
+        text: Connect
 
 format:
   html:
