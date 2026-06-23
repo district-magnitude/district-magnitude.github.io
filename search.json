@@ -1,17 +1,24 @@
 [
   {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
     "section": "",
-    "text": "Meet the people behind district-magnitude."
+    "text": "Resources, materials, and links."
   },
   {
-    "objectID": "people.html#team",
-    "href": "people.html#team",
-    "title": "People",
-    "section": "Team",
-    "text": "Team\nTeam members will be listed here."
+    "objectID": "resources.html#materials",
+    "href": "resources.html#materials",
+    "title": "Resources",
+    "section": "Materials",
+    "text": "Materials\nResources will be listed here."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "district-magnitude",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "connect.html",
@@ -26,6 +33,13 @@
     "title": "Connect",
     "section": "Mailing list",
     "text": "Mailing list\nWe host a mailing list, district magnitude (DM), at Groups.io.\n\nTo subscribe, send an empty message to district-magnitude+subscribe@groups.io.\nTo join the list as a member, contact district-magnitude+owner@groups.io."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   },
   {
     "objectID": "events.html",
@@ -49,31 +63,17 @@
     "text": "Past events\nPast events will be listed here."
   },
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
     "section": "",
-    "text": "Resources, materials, and links."
+    "text": "Meet the people behind district-magnitude."
   },
   {
-    "objectID": "resources.html#materials",
-    "href": "resources.html#materials",
-    "title": "Resources",
-    "section": "Materials",
-    "text": "Materials\nResources will be listed here."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "district-magnitude",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "objectID": "people.html#team",
+    "href": "people.html#team",
+    "title": "People",
+    "section": "Team",
+    "text": "Team\nTeam members will be listed here."
   }
 ]
