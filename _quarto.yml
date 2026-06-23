@@ -11,8 +11,10 @@ website:
         text: Home
       - href: events.qmd
         text: Events
-      - href: people.qmd
-        text: People
+      - text: About
+        menu:
+          - href: people.qmd
+            text: People
       - href: resources.qmd
         text: Resources
       - href: connect.qmd
