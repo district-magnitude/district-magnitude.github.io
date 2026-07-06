@@ -2,20 +2,22 @@
 title: "People"
 ---
 
-Meet the people behind district-magnitude.
-
-## Team
+## Current Team
 
 The leadership of the Representation and Electoral Systems Section has transitioned to a new team for 2026–2027. The new leadership team is as follows:
 
-- **Yuki Atsusaka** — Chair
-- **Asya Magazinnik** — Council
-- **Paru Shah** — Council
-- **Sona Golder** — Council
-- **Yann Kerevel** — Council
-- **Thiago M. Q. Moreira** — Treasurer
-- **Eduardo Alemán** — 2026 APSA Division Co-chair
-- **Taeko Hiroi** — 2026 APSA Division Co-chair
+- Chair
+  - Yuki Atsusaka (University of Houston)
+- Council
+  - Asya Magazinnik (Hertie School)
+  - Paru Shah (Rutgers University)
+  - Sona Golder (Pennsylvania State University)
+  - Yann Kerevel (Louisiana State University)
+- Treasurer
+  - Thiago M. Q. Moreira (Louisiana State University)
+- 2026 APSA Division Co-chair
+  - Eduardo Alemán (University of Houston)
+  - Taeko Hiroi (University of Texas, El Paso)
 
 ## Past chairs and teams
 
@@ -23,26 +25,26 @@ The section's officers and leadership teams over time, drawn from the APSA secti
 
 ### Chairs
 
-- **2025–2026** — Yuki Atsusaka (University of Houston)
-- **2023–2025** — Yann Kerevel (Louisiana State University)
-- **2021–2022** — Emily Beaulieu (University of South Carolina)
-- **2019–2021** — Magda Hinojosa (Arizona State University)
-- **2017–2019** — Melody E. Valdini (Portland State University)
-- **2015–2017** — Lawrence Ezrow (University of Essex)
-- **2013–2015** — Brian F. Crisp (Washington University in St. Louis)
-- **2011–2013** — Matt Golder (Pennsylvania State University)
-- **2009–2011** — Shaun Bowler (University of California, Riverside)
-- **2005–2009** — André Blais (Université de Montréal)
-- **2002–2005** — Richard S. Katz (Johns Hopkins University)
-- **1996–2001** — Mark E. Rush (Washington and Lee University)
-- **1994–1997** — Richard Lee Engstrom (University of Houston)
-- **1991–1992** — Bernard N. Grofman (University of California, Irvine)
-- **1990–1991** — Joseph F. Zimmerman
+- 2025–2027 (15th): Yuki Atsusaka (University of Houston)
+- 2023–2025 (14th): Yann Kerevel (Louisiana State University)
+- 2021–2022 (13th): Emily Beaulieu (University of South Carolina)
+- 2019–2021 (12th): Magda Hinojosa (Arizona State University)
+- 2017–2019 (11th): Melody E. Valdini (Portland State University)
+- 2015–2017 (10th): Lawrence Ezrow (University of Essex)
+- 2013–2015 (9th): Brian F. Crisp (Washington University in St. Louis)
+- 2011–2013 (8th): Matt Golder (Pennsylvania State University)
+- 2009–2011 (7th): Shaun Bowler (University of California, Riverside)
+- 2005–2009 (6th): André Blais (Université de Montréal)
+- 2002–2005 (5th): Richard S. Katz (Johns Hopkins University)
+- 1996–2001 (4th): Mark E. Rush (Washington and Lee University)
+- 1994–1997 (3rd): Richard Lee Engstrom (University of Houston)
+- 1991–1992 (2nd): Bernard N. Grofman (University of California, Irvine)
+- 1990–1991 (1st): Joseph F. Zimmerman
 
 ### All officers
 
 | Term | Position | Officer | Affiliation |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | 2025–2026 | Chair | Yuki Atsusaka | University of Houston |
 | 2025–2026 | Treasurer | Thiago M. Q. Moreira | Louisiana State University |
 | 2025–2026 | Annual Meeting Division Chair | Eduardo Alemán | University of Houston |
