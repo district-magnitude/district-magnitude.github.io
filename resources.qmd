@@ -2,8 +2,14 @@
 title: "Resources"
 ---
 
-## Materials
+#### Information about the section
 
-- [APSA Section](https://apsanet.org/membership/organized-sections/section8/)
+- [American Political Science Association, Section Page](https://apsanet.org/membership/organized-sections/section8/)
 
-- [Past awards](https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-8/)
+- [List of Past Awards](https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-8/)
+
+#### Data
+
+- [Electoral System Design Database](https://www.idea.int/data-tools/data/electoral-system-design-database)
+
+- [Electoral System Incentives for Interparty and Intraparty Politics](https://i3dataset.com/)
