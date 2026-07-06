@@ -4,7 +4,7 @@ project:
     - "*.qmd"
 
 website:
-  title: "Home"
+  title: "Representation & Electoral Systems"
   navbar:
     left:
       - text: About
@@ -19,14 +19,19 @@ website:
         text: Resources
       - href: connect.qmd
         text: Connect
+  page-footer:
+    background: "#084c50"
+    foreground: "#ffffff"
+    center: |
+      Representation & Electoral Systems
 
 format:
   html:
     theme:
       - cosmo
-      - brand
+      - theme.scss
     css: styles.css
     toc: true
-
-
-
+    toc-title: "On this page"
+    smooth-scroll: true
+    link-external-newwindow: true
