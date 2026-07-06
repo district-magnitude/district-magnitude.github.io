@@ -2,11 +2,7 @@
 title: "Connect"
 ---
 
-Get in touch and follow our work.
-
-## Mailing list
-
 We host a mailing list, **district magnitude (DM)**, at [Groups.io](https://groups.io).
 
-- **To subscribe**, send an empty message to [district-magnitude+subscribe@groups.io](mailto:district-magnitude+subscribe@groups.io).
-- **To join the list as a member**, contact [district-magnitude+owner@groups.io](mailto:district-magnitude+owner@groups.io).
+- **To subscribe** (and receive news), please send an empty message to [district-magnitude+subscribe\@groups.io](mailto:district-magnitude+subscribe@groups.io).
+- **To join the list as a member** (and post), please contact [district-magnitude+owner\@groups.io](mailto:district-magnitude+owner@groups.io).
