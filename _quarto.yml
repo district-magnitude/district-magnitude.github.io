@@ -7,12 +7,8 @@ website:
   title: "Representation & Electoral Systems"
   navbar:
     left:
-      - text: About
-        menu:
-          - href: goals.qmd
-            text: Our Goal
-          - href: people.qmd
-            text: People
+      - href: people.qmd
+        text: People
       - href: events.qmd
         text: Events
       - href: resources.qmd
