@@ -59,7 +59,7 @@ The section's officers and leadership teams over time, drawn from the APSA secti
 ### All officers
 
 | Term | Position | Officer | Affiliation |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | 2025–2026 | Chair | Yuki Atsusaka | [University of Houston]{.text-muted} |
 | 2025–2026 | Treasurer | Thiago M. Q. Moreira | [Louisiana State University]{.text-muted} |
 | 2025–2026 | Annual Meeting Division Chair | Eduardo Alemán | [University of Houston]{.text-muted} |
