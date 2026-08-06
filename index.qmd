@@ -17,9 +17,9 @@ Representation and Electoral Systems is a global community that promotes the res
 ### News and announcements
 
 ::: news-list
-- **July 2025** — We will host a joint reception and business meeting during the American Political Science Association Annual Meeting. For more, visit [Events](events.qmd).
-- **June 2025** — We are soft launching our mailing list district-magnitude (DM). For more, see [Connect](connect.qmd).
-- **March 2025** — The leadership transitioned into a new team. See more at [People](people.qmd).
+- **July 2026** — We will host a joint reception and business meeting during the American Political Science Association Annual Meeting. For more, visit [Events](events.qmd).
+- **June 2026** — We are soft launching our mailing list district-magnitude (DM). For more, see [Connect](connect.qmd).
+- **March 2026** — The leadership transitioned into a new team. See more at [People](people.qmd).
 :::
 
 ### About this website
