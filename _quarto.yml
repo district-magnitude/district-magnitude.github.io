@@ -2,6 +2,8 @@ project:
   type: website
   render:
     - "*.qmd"
+  resources:
+    - pexels-244411608-12361273.jpg
 
 website:
   title: "Representation & Electoral Systems"

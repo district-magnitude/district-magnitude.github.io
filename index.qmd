@@ -2,14 +2,16 @@
 title: "Representation and Electoral Systems"
 ---
 
+::: hero
 ::: lead-tagline
 We tackle key questions in the fields of electoral systems and representation.
 :::
 
 Representation and Electoral Systems is a global community that promotes the research, teaching, and evaluation of electoral systems across various countries. We host events and build an infrastructure for exchanging ideas and supporting our collective scientific endeavors. Our community is officially sustained as an organized section under the American Political Science Association.
+:::
 
 ::: cta-row
-[Join our mailing list](connect.qmd){.btn .btn-primary .btn-lg} [Upcoming events](events.qmd){.btn .btn-outline-primary .btn-lg} [Meet the team](people.qmd){.btn .btn-outline-primary .btn-lg}
+[Join our mailing list](connect.qmd){.btn .btn-outline-primary .btn-lg} [Upcoming events](events.qmd){.btn .btn-outline-primary .btn-lg} [Meet the team](people.qmd){.btn .btn-outline-primary .btn-lg}
 :::
 
 ### News and announcements

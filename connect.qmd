@@ -2,7 +2,7 @@
 title: "Connect"
 ---
 
-We host a mailing list, **district magnitude (DM)**, at [Groups.io](https://groups.io).
+We host a mailing list, **district magnitude (DM)**, at [Groups.io](https://groups.io). Join the DM to receive the latest news about the section and other opportunities for research, workshops, and more.
 
-- **To subscribe** (and receive news), please send an empty message to [district-magnitude+subscribe\@groups.io](mailto:district-magnitude+subscribe@groups.io).
-- **To join the list as a member** (and post), please contact [district-magnitude+owner\@groups.io](mailto:district-magnitude+owner@groups.io).
+- **To joint the list as a subscriber** (and receive news), please send an empty message to [district-magnitude+subscribe\@groups.io](mailto:district-magnitude+subscribe@groups.io).
+- **To join the list as a member** (and post), please send an message to [district-magnitude+owner\@groups.io](mailto:district-magnitude+owner@groups.io).
