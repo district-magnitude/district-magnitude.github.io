@@ -8,10 +8,4 @@ title: "Resources"
 
 - [List of Past Awards](https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-8/)
 
-#### Data related to electoral systems
-
-- [The Election Archive (THEA)](https://electiondataarchive.org/)
-
-- [Electoral System Design Database](https://www.idea.int/data-tools/data/electoral-system-design-database)
-
-- [Electoral System Incentives for Interparty and Intraparty Politics](https://i3dataset.com/)
+#### 
