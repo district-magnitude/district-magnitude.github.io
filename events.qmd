@@ -18,6 +18,8 @@ Boston Marriott Copley Place\
 Room: Salon I\
 About: In this event, we will host a joint reception. Food and beverages will be served.\
 
+![](reception-invite.png)
+
 **Workshop: Electoral Institutions in an Age of Democratic Backsliding**
 
 January 28 (Thursday), 2027\
