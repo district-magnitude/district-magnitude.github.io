@@ -17,6 +17,8 @@ Representation and Electoral Systems is a global community that promotes the res
 ### News and announcements
 
 ::: news-list
+- **August 2026** — We will co-host 
+
 - **July 2026** — We will host a joint reception and business meeting during the American Political Science Association Annual Meeting. For more, visit [Events](events.qmd).
 - **June 2026** — We are soft launching our mailing list district-magnitude (DM). For more, see [Connect](connect.qmd).
 - **March 2026** — The leadership transitioned into a new team. See more at [People](people.qmd).
@@ -24,6 +26,6 @@ Representation and Electoral Systems is a global community that promotes the res
 
 ### About this website
 
-This website was created and is currently maintained by [Yuki Atsusaka](https://atsusaka.org/)—inspired by ideas from [Erik S. Herron](https://vse-na-vybory.blogspot.com/). It is a collective project to revive and build on the [previous webpage](https://web.archive.org/web/20081202021347/http://apsa-res.blogspot.com/) maintained by Representation and Electoral Systems. Former newsletters are still available there. The previous website ceased to exist sometime between December 10th, 2016 (last confirmed ULR) and September 4th, 2017 according to the Wayback Machine.
+This website was created and is currently maintained by [Yuki Atsusaka](https://atsusaka.org/)—inspired by ideas from [Erik S. Herron](https://vse-na-vybory.blogspot.com/). It is a collective project to revive and build on the [previous webpage](https://web.archive.org/web/20081202021347/http://apsa-res.blogspot.com/) maintained by Representation and Electoral Systems. Former newsletters are still available there. The previous website ceased to exist sometime between December 10th, 2016 (last confirmed URL) and September 4th, 2017 according to the Wayback Machine.
 
 This website is built with [Quarto](https://quarto.org/).
