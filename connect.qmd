@@ -6,4 +6,6 @@ We host a mailing list, **district magnitude (DM)**, at [Groups.io](https://grou
 
 To join the list, please send an empty message to [district-magnitude+subscribe\@groups.io](mailto:district-magnitude+subscribe@groups.io). You will receive a confirmation email, so please reply with no content.\
 \
-Members can make a post by emailing it directly to [district-magnitude\@groups.io](mailto:district-magnitude@groups.io). The post will be reviewed and approved before being sent out to all list members.
+Members can make a post by emailing it directly to [district-magnitude\@groups.io](mailto:district-magnitude@groups.io). The post will be reviewed and approved before being sent out to all list members.\
+\
+\[Current members: 41\]
